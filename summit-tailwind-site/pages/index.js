@@ -16,7 +16,7 @@ export default function Home() {
       <section className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
         <div className="bg-white shadow-md rounded-2xl p-4">
           <img
-            src="/mock-duct.jpg"
+            src="/Duct.png"
             alt="Air Duct Cleaning"
             width={300}
             height={200}
