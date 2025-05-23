@@ -27,7 +27,7 @@ export default function Home() {
         </div>
         <div className="bg-white shadow-md rounded-2xl p-4">
           <img
-            src="/mock-dryer.jpg"
+            src="/Dryer.jpg"
             alt="Dryer Vent Cleaning"
             width={300}
             height={200}
